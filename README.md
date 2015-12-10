@@ -1,1 +1,1 @@
-Code fragments collected from IOS development
+Code fragments collected from IOS development.
